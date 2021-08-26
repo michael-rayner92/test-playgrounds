@@ -1,0 +1,3 @@
+[submodule "mongodb"]
+	path = mongodb
+	url = git@github.com:michael-rayner92/mongo-test-playground.git
